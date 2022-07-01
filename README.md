@@ -8,8 +8,8 @@
 ### =====> In learning stage: Docker, Jenkins
 
 
+### Media: [HackerRank](https://www.hackerrank.com/mert_c_tatar), [dockerhub](https://hub.docker.com/u/mrfoooster), [Linkedin](https://www.linkedin.com/in/mertcemtatar/)
 
-### [HackerRank](https://www.hackerrank.com/mert_c_tatar) [dockerhub](https://hub.docker.com/u/mrfoooster)
 
 <!--
 **mrfoooster/mrfoooster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
