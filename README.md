@@ -2,10 +2,10 @@
 ### My name is Mert. I am learning DevOps technologies. 
 
 ### Langueges: JavaScript, Python, HTML, Css
-###   In learning stage: BASH, Solidity
+  ###   In learning stage: BASH, Solidity
 
 ### Technologies: Linux, Ubuntu, Visual Studio Code
-###   In learning stage: Docker, Jenkins
+  ###   In learning stage: Docker, Jenkins
 
 
 <!--
