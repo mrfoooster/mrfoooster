@@ -5,7 +5,7 @@
 ### =====> In learning stage: BASH, Solidity
 
 ### Technologies: Linux, Ubuntu, Visual Studio Code
-### =====> In learning stage: Docker, Jenkins
+### =====> In learning stage: Docker, Jenkins, AWS
 
 
 ### Media: [HackerRank](https://www.hackerrank.com/mert_c_tatar), [dockerhub](https://hub.docker.com/u/mrfoooster), [Linkedin](https://www.linkedin.com/in/mertcemtatar/)
